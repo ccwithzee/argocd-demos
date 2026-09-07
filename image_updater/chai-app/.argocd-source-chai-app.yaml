@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - ccwithzee/chai-devops:v1.0.3
+  - ccwithzee/chai-devops:v1.0.4
