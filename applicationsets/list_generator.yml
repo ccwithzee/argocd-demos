@@ -13,7 +13,9 @@ spec:
           - app: online-shop
             path: multicluster/online-shop   # path in repo for this app
           - app: apache
-            path: cli_approach/apache    
+            path: cli_approach/apache
+          - app: chaiapp
+            path: applicationsets/chai-app    
   # Template that will be used to generate individual Application CRs
   template:
     metadata:
